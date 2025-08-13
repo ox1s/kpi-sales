@@ -1,0 +1,501 @@
+client_id,avg_purchase_frequency,predicted_lifetime_months,ltv_byn,rfm_segment
+1,1.53,12,296.54,Hibernating
+2,1.13,27,986.96,Potential Loyalist
+3,0.99,38,314.13,New Customers
+4,0.8,46,822.1,Hibernating
+5,1.76,45,2642.82,At Risk
+6,1.45,15,534.91,Loyal Customer
+7,0.25,58,694.95,Loyal Customer
+8,1.24,30,817.87,At Risk
+9,1.6,27,1246.54,Hibernating
+10,0.61,32,94.67,Potential Loyalist
+11,1.14,26,1267.52,At Risk
+12,3.83,31,7604.76,Hibernating
+13,5.33,9,2048.28,Loyal Customer
+14,0.62,6,498.69,Loyal Customer
+15,0.85,56,1429.31,Potential Loyalist
+16,0.63,58,522.69,Potential Loyalist
+17,1.64,6,284.44,New Customers
+18,0.87,22,615.57,Potential Loyalist
+19,1.27,39,194.2,Potential Loyalist
+20,0.03,58,68.14,Potential Loyalist
+21,3.56,25,575.13,Loyal Customer
+22,1.0,40,756.42,New Customers
+23,0.78,23,868.72,At Risk
+24,0.1,35,18.95,Loyal Customer
+25,0.19,53,146.38,New Customers
+26,2.36,32,289.12,Hibernating
+27,3.13,59,5672.14,Champions
+28,1.93,28,487.58,New Customers
+29,0.49,45,323.69,Potential Loyalist
+30,1.96,23,3476.61,Hibernating
+31,2.19,27,784.78,Loyal Customer
+32,0.93,14,222.47,At Risk
+33,1.15,45,2679.7,At Risk
+34,0.09,39,157.6,Loyal Customer
+35,0.52,35,205.54,Loyal Customer
+36,1.65,35,2939.02,New Customers
+37,0.73,38,495.37,Potential Loyalist
+38,0.24,20,62.13,Potential Loyalist
+39,2.01,13,1665.04,At Risk
+40,1.87,25,1995.31,Loyal Customer
+41,0.25,54,481.53,Potential Loyalist
+42,1.9,49,3763.26,Champions
+43,0.1,35,0.0,Loyal Customer
+44,0.82,55,1853.87,Potential Loyalist
+45,3.78,30,595.67,Champions
+46,3.31,28,0.0,At Risk
+47,1.28,16,847.18,Champions
+48,3.82,23,1530.59,Champions
+49,0.05,53,100.85,Potential Loyalist
+50,0.31,55,744.57,At Risk
+51,1.03,20,867.47,Loyal Customer
+52,0.91,42,488.15,At Risk
+53,0.11,8,25.79,New Customers
+54,3.91,45,1569.62,Potential Loyalist
+55,1.41,58,6712.5,Loyal Customer
+56,6.55,10,729.18,New Customers
+57,0.29,45,0.0,At Risk
+58,0.74,15,492.19,At Risk
+59,1.14,6,238.75,Loyal Customer
+60,1.48,58,1243.2,Champions
+61,0.67,11,260.35,Potential Loyalist
+62,0.61,16,81.5,Champions
+63,2.19,13,1319.16,At Risk
+64,0.76,30,126.34,New Customers
+65,2.89,37,1149.94,Potential Loyalist
+66,0.14,33,283.67,Loyal Customer
+67,1.78,20,1303.43,Champions
+68,0.5,51,336.05,Potential Loyalist
+69,1.85,35,3442.78,Hibernating
+70,1.32,35,949.64,At Risk
+71,4.63,22,6679.1,Potential Loyalist
+72,0.36,46,129.58,At Risk
+73,0.7,55,367.03,Potential Loyalist
+74,0.53,8,53.04,At Risk
+75,1.68,45,1170.04,New Customers
+76,0.9,55,2453.96,Hibernating
+77,5.17,47,16894.49,Hibernating
+78,1.65,7,525.91,Potential Loyalist
+79,0.6,49,384.85,New Customers
+80,0.11,19,213.9,New Customers
+81,0.21,22,121.36,Loyal Customer
+82,3.5,26,1278.32,Potential Loyalist
+83,0.38,34,133.75,Champions
+84,0.84,14,238.69,New Customers
+85,1.21,57,705.33,Loyal Customer
+86,1.58,37,5494.66,Champions
+87,3.05,10,0.0,New Customers
+88,0.15,22,104.42,New Customers
+89,0.9,19,0.0,At Risk
+90,5.37,31,4935.35,Potential Loyalist
+91,2.62,55,2352.25,Champions
+92,1.39,16,105.4,Loyal Customer
+93,3.32,59,0.0,New Customers
+94,2.9,22,406.76,Potential Loyalist
+95,1.91,7,54.34,New Customers
+96,1.29,8,139.95,Potential Loyalist
+97,5.5,31,10842.46,Hibernating
+98,4.43,18,1300.96,Loyal Customer
+99,1.0,37,1627.24,Champions
+100,0.12,28,247.81,At Risk
+101,1.14,12,365.67,Loyal Customer
+102,1.08,11,566.91,Champions
+103,1.43,24,1112.41,At Risk
+104,0.38,22,99.19,At Risk
+105,1.18,59,2589.17,Champions
+106,0.28,20,181.1,Potential Loyalist
+107,0.27,49,411.02,Potential Loyalist
+108,0.17,12,10.43,New Customers
+109,0.16,8,5.21,Potential Loyalist
+110,4.47,27,0.0,New Customers
+111,1.0,12,523.06,New Customers
+112,1.23,42,859.19,New Customers
+113,0.14,11,77.35,New Customers
+114,3.06,43,0.0,Loyal Customer
+115,1.15,53,0.0,Hibernating
+116,6.9,6,547.27,Champions
+117,0.51,15,634.29,Potential Loyalist
+118,2.06,26,1343.85,Hibernating
+119,3.22,36,1155.63,New Customers
+120,0.48,34,608.29,Loyal Customer
+121,0.23,41,279.98,Loyal Customer
+122,0.5,14,0.0,Champions
+123,3.11,23,601.09,Loyal Customer
+124,3.95,33,7523.01,Hibernating
+125,0.48,23,142.65,Potential Loyalist
+126,0.2,6,54.16,New Customers
+127,2.76,26,775.37,Hibernating
+128,0.11,32,25.05,Champions
+129,3.48,19,812.77,Hibernating
+130,1.23,37,0.0,Loyal Customer
+131,4.96,50,0.0,Potential Loyalist
+132,0.94,22,0.0,Champions
+133,1.3,39,1735.55,Potential Loyalist
+134,1.4,13,912.85,New Customers
+135,1.41,24,554.67,Hibernating
+136,1.9,31,405.92,New Customers
+137,0.32,31,81.69,Loyal Customer
+138,0.27,59,49.44,Potential Loyalist
+139,1.11,49,1274.46,Potential Loyalist
+140,1.08,40,0.0,Hibernating
+141,0.83,41,770.68,Champions
+142,2.49,27,450.74,Potential Loyalist
+143,2.76,53,4352.4,Hibernating
+144,0.58,38,0.0,Potential Loyalist
+145,1.25,25,142.16,Loyal Customer
+146,1.0,17,169.51,Loyal Customer
+147,1.19,16,448.3,Loyal Customer
+148,0.9,43,0.0,At Risk
+149,3.76,30,3465.45,Hibernating
+150,2.73,44,3527.06,New Customers
+151,8.45,7,4204.83,Loyal Customer
+152,3.39,56,9478.87,Potential Loyalist
+153,1.83,44,4461.14,Loyal Customer
+154,0.29,14,143.63,Potential Loyalist
+155,0.24,59,215.68,New Customers
+156,0.3,14,93.89,Champions
+157,0.92,24,0.0,New Customers
+158,8.9,27,3390.33,Potential Loyalist
+159,1.0,49,983.22,Champions
+160,0.94,33,994.79,At Risk
+161,1.78,55,617.59,New Customers
+162,2.07,14,344.78,New Customers
+163,2.03,21,234.29,At Risk
+164,3.11,25,2718.7,Hibernating
+165,1.0,22,120.42,Hibernating
+166,0.18,23,211.28,New Customers
+167,2.48,10,0.0,Potential Loyalist
+168,4.36,9,569.18,Hibernating
+169,0.78,33,1095.94,At Risk
+170,1.46,41,234.55,New Customers
+171,0.46,18,67.22,Potential Loyalist
+172,1.05,38,1357.2,Hibernating
+173,0.79,16,169.77,Champions
+174,0.25,59,749.3,Hibernating
+175,0.14,19,23.53,Loyal Customer
+176,0.53,19,666.06,Loyal Customer
+177,0.56,48,0.0,New Customers
+178,4.3,28,4063.27,Champions
+179,0.78,40,590.15,New Customers
+180,1.01,45,1234.12,At Risk
+181,0.11,13,0.0,At Risk
+182,4.62,44,0.0,Hibernating
+183,3.19,23,1293.51,Hibernating
+184,1.57,35,2359.19,At Risk
+185,3.98,14,1627.8,Hibernating
+186,2.25,44,12457.91,Champions
+187,1.25,24,205.74,Loyal Customer
+188,2.19,31,1377.71,Potential Loyalist
+189,4.97,26,3970.07,Hibernating
+190,0.38,14,60.67,At Risk
+191,0.65,24,358.05,Loyal Customer
+192,0.66,20,87.19,Hibernating
+193,0.17,8,69.8,At Risk
+194,0.56,10,148.62,Potential Loyalist
+195,0.13,52,370.24,Potential Loyalist
+196,1.06,28,473.79,New Customers
+197,1.53,40,5323.66,New Customers
+198,0.62,39,880.11,Potential Loyalist
+199,0.45,21,122.66,Potential Loyalist
+200,5.17,32,0.0,Champions
+201,0.03,43,8.8,New Customers
+202,2.46,50,680.29,At Risk
+203,1.49,42,6937.46,At Risk
+204,0.16,18,93.8,At Risk
+205,1.23,18,0.0,Potential Loyalist
+206,0.07,19,68.96,Loyal Customer
+207,0.9,28,1348.97,At Risk
+208,3.53,26,4236.34,Hibernating
+209,0.12,29,0.0,Potential Loyalist
+210,0.24,35,272.28,Loyal Customer
+211,1.73,59,794.91,New Customers
+212,0.33,36,117.08,Potential Loyalist
+213,2.65,49,7596.22,Champions
+214,2.51,35,0.0,Loyal Customer
+215,0.86,12,404.45,At Risk
+216,0.09,19,13.0,Potential Loyalist
+217,2.24,51,2959.74,New Customers
+218,3.32,54,1708.84,Hibernating
+219,2.36,57,1654.15,Loyal Customer
+220,1.19,37,0.0,New Customers
+221,1.27,35,605.33,New Customers
+222,0.2,11,47.97,Champions
+223,0.04,25,7.51,Hibernating
+224,1.18,15,692.86,New Customers
+225,1.15,36,720.82,Potential Loyalist
+226,0.42,36,481.52,At Risk
+227,0.56,33,0.0,Hibernating
+228,2.46,51,7129.16,Champions
+229,1.03,19,1438.87,New Customers
+230,0.79,23,82.66,New Customers
+231,1.23,54,3063.75,New Customers
+232,2.39,53,5973.23,Potential Loyalist
+233,2.33,22,412.14,At Risk
+234,1.12,23,663.42,At Risk
+235,1.27,56,3541.32,New Customers
+236,0.9,42,2883.71,At Risk
+237,0.21,40,560.17,Hibernating
+238,0.24,40,437.59,New Customers
+239,0.6,57,1135.27,Potential Loyalist
+240,1.04,7,611.22,At Risk
+241,5.21,10,6337.44,Potential Loyalist
+242,2.59,30,1240.32,Hibernating
+243,0.42,51,1105.06,Champions
+244,0.09,26,30.97,New Customers
+245,2.2,17,0.0,Potential Loyalist
+246,2.46,58,8586.6,Hibernating
+247,2.81,48,2149.31,At Risk
+248,0.6,35,0.0,At Risk
+249,1.09,12,204.24,New Customers
+250,0.48,58,2785.55,At Risk
+251,2.37,57,1456.05,Loyal Customer
+252,1.39,19,1267.44,At Risk
+253,4.09,21,12803.66,Hibernating
+254,0.9,30,933.86,Loyal Customer
+255,0.79,43,452.24,Champions
+256,1.47,43,2529.3,Potential Loyalist
+257,2.11,37,2889.57,New Customers
+258,3.0,28,2309.44,Champions
+259,0.22,38,72.34,New Customers
+260,0.08,18,41.38,Hibernating
+261,1.27,31,0.0,At Risk
+262,0.25,46,199.69,Loyal Customer
+263,5.28,37,2697.03,Hibernating
+264,0.26,9,0.0,Hibernating
+265,0.51,21,217.99,Loyal Customer
+266,6.41,55,12335.58,Champions
+267,0.64,7,124.61,Potential Loyalist
+268,4.37,21,750.37,New Customers
+269,2.91,32,1212.42,Hibernating
+270,1.0,24,0.0,Potential Loyalist
+271,0.06,24,35.99,Champions
+272,0.25,38,200.86,Hibernating
+273,0.01,28,31.67,Loyal Customer
+274,1.19,16,325.5,New Customers
+275,1.14,41,1182.1,Loyal Customer
+276,0.74,28,280.19,New Customers
+277,0.89,58,679.96,At Risk
+278,1.09,12,96.09,New Customers
+279,5.58,37,7160.89,Loyal Customer
+280,1.67,13,494.97,New Customers
+281,2.82,48,14044.95,Hibernating
+282,0.33,14,29.53,Champions
+283,0.79,47,0.0,Potential Loyalist
+284,1.6,16,158.17,At Risk
+285,0.54,38,2623.69,New Customers
+286,0.55,56,1116.33,New Customers
+287,1.86,58,5560.55,Loyal Customer
+288,3.35,8,1272.52,New Customers
+289,1.84,55,6768.76,Loyal Customer
+290,2.63,24,3357.22,New Customers
+291,3.09,10,139.41,Potential Loyalist
+292,0.63,21,138.82,Champions
+293,2.34,35,0.0,Loyal Customer
+294,0.78,50,1455.57,At Risk
+295,2.37,53,7594.98,At Risk
+296,3.26,25,2925.51,At Risk
+297,1.23,8,0.0,Potential Loyalist
+298,0.18,10,15.79,Hibernating
+299,2.32,28,0.0,Potential Loyalist
+300,2.15,8,155.33,Potential Loyalist
+301,1.4,29,0.0,Potential Loyalist
+302,0.44,42,0.0,Champions
+303,0.16,43,148.24,New Customers
+304,1.28,10,423.67,At Risk
+305,1.45,50,1185.07,At Risk
+306,0.12,25,393.14,Champions
+307,0.54,50,0.0,Hibernating
+308,0.31,39,347.28,New Customers
+309,0.58,53,122.81,Hibernating
+310,0.26,52,0.0,Hibernating
+311,0.24,37,130.84,Hibernating
+312,0.53,47,152.64,New Customers
+313,0.37,10,280.08,Champions
+314,3.73,49,4113.85,At Risk
+315,2.38,54,0.0,Champions
+316,3.48,23,4360.45,Loyal Customer
+317,0.64,36,703.99,Potential Loyalist
+318,0.7,53,187.36,Champions
+319,1.28,58,3442.65,Potential Loyalist
+320,4.25,53,1304.76,New Customers
+321,0.28,47,725.55,Hibernating
+322,2.49,15,3568.01,Hibernating
+323,0.3,6,128.07,Champions
+324,0.22,12,194.77,Champions
+325,0.13,46,135.06,Loyal Customer
+326,2.14,28,0.0,Champions
+327,1.22,43,2621.38,Loyal Customer
+328,0.39,37,1460.69,Champions
+329,0.87,29,960.11,New Customers
+330,4.55,43,5342.39,Champions
+331,0.93,13,560.46,Loyal Customer
+332,2.18,37,0.0,Potential Loyalist
+333,1.42,36,5082.35,Hibernating
+334,1.19,23,1039.75,Champions
+335,0.28,30,143.69,Hibernating
+336,0.15,50,220.12,Potential Loyalist
+337,1.67,24,2632.48,Loyal Customer
+338,3.04,39,0.0,Potential Loyalist
+339,0.53,49,189.49,Loyal Customer
+340,2.15,36,2353.82,Loyal Customer
+341,0.92,27,984.52,At Risk
+342,0.63,52,104.83,Potential Loyalist
+343,0.4,30,0.0,Champions
+344,2.47,19,3161.71,Potential Loyalist
+345,0.31,32,97.77,New Customers
+346,0.0,33,0.0,Potential Loyalist
+347,1.21,18,610.03,At Risk
+348,2.62,43,0.0,New Customers
+349,0.53,23,67.73,Champions
+350,2.93,35,2892.85,New Customers
+351,0.97,42,1655.62,Loyal Customer
+352,0.95,40,0.0,Potential Loyalist
+353,4.94,7,1514.83,At Risk
+354,0.45,45,317.97,Champions
+355,0.39,55,0.0,Champions
+356,3.24,27,1811.2,At Risk
+357,1.37,7,292.73,At Risk
+358,2.03,17,253.07,Hibernating
+359,3.52,37,2815.82,Champions
+360,0.88,57,4394.5,Hibernating
+361,0.13,42,186.9,Hibernating
+362,4.54,26,2016.12,At Risk
+363,0.0,28,0.0,At Risk
+364,0.08,56,201.38,Hibernating
+365,0.32,8,91.33,Hibernating
+366,6.07,50,3722.43,Hibernating
+367,0.3,45,749.34,New Customers
+368,2.0,54,5770.38,New Customers
+369,1.27,14,807.51,Loyal Customer
+370,0.15,16,30.63,Champions
+371,1.49,17,531.2,New Customers
+372,1.4,9,548.49,At Risk
+373,0.17,55,1273.73,Champions
+374,0.73,10,117.6,At Risk
+375,0.25,8,84.3,Hibernating
+376,0.59,13,328.66,Potential Loyalist
+377,0.35,23,120.77,Champions
+378,0.59,54,0.0,Champions
+379,0.44,30,321.62,Hibernating
+380,3.47,56,8052.14,Champions
+381,0.72,44,5313.3,Hibernating
+382,3.24,31,632.27,Hibernating
+383,0.43,47,1038.26,Potential Loyalist
+384,0.08,32,0.0,Potential Loyalist
+385,4.77,46,908.86,Champions
+386,0.65,47,494.68,Loyal Customer
+387,1.68,59,0.0,Potential Loyalist
+388,1.12,27,1395.49,Potential Loyalist
+389,0.22,18,148.36,Loyal Customer
+390,3.07,51,10306.77,Potential Loyalist
+391,0.59,13,834.68,At Risk
+392,0.26,29,0.0,New Customers
+393,0.49,21,150.14,New Customers
+394,1.32,33,818.27,Potential Loyalist
+395,2.06,35,5816.07,Champions
+396,0.28,44,43.25,Potential Loyalist
+397,2.56,45,1346.5,At Risk
+398,0.58,45,0.0,Potential Loyalist
+399,0.82,55,0.0,Champions
+400,0.11,47,363.5,Potential Loyalist
+401,2.92,8,421.24,Champions
+402,1.3,17,0.0,Hibernating
+403,0.13,21,12.08,New Customers
+404,0.15,58,52.26,New Customers
+405,2.39,34,912.31,Potential Loyalist
+406,0.63,53,491.75,Hibernating
+407,0.3,45,2518.63,Champions
+408,1.36,39,3939.99,Potential Loyalist
+409,1.22,49,0.0,New Customers
+410,0.13,25,41.98,Potential Loyalist
+411,6.62,55,0.0,At Risk
+412,0.42,17,299.51,New Customers
+413,1.1,57,2743.86,Potential Loyalist
+414,0.0,25,0.0,Hibernating
+415,1.35,10,296.53,At Risk
+416,0.2,37,220.34,Champions
+417,0.51,32,493.56,New Customers
+418,0.76,28,309.77,At Risk
+419,1.17,12,543.21,Hibernating
+420,3.34,55,8005.19,New Customers
+421,0.75,38,247.86,Loyal Customer
+422,6.35,54,0.0,Potential Loyalist
+423,1.53,12,0.0,Champions
+424,0.75,24,515.37,Potential Loyalist
+425,2.91,55,4699.07,New Customers
+426,1.08,43,2232.14,Potential Loyalist
+427,0.96,36,249.35,Hibernating
+428,0.51,16,89.62,Hibernating
+429,1.5,27,2054.16,Champions
+430,1.97,51,2840.4,Champions
+431,1.71,35,2407.93,At Risk
+432,1.23,42,3336.2,Potential Loyalist
+433,1.55,24,0.0,Loyal Customer
+434,3.56,6,805.33,Hibernating
+435,0.49,57,252.77,New Customers
+436,2.46,32,0.0,Champions
+437,9.56,35,3563.38,Hibernating
+438,0.48,33,0.0,Potential Loyalist
+439,3.17,37,7383.5,Champions
+440,4.37,32,2434.32,Loyal Customer
+441,0.06,10,65.9,At Risk
+442,1.53,22,1821.38,Potential Loyalist
+443,1.38,44,0.0,Potential Loyalist
+444,0.05,14,0.0,Potential Loyalist
+445,0.64,31,473.37,Hibernating
+446,0.83,34,1437.43,Potential Loyalist
+447,0.18,55,638.85,Hibernating
+448,0.27,50,29.18,Loyal Customer
+449,4.13,11,2676.23,Potential Loyalist
+450,2.51,45,5541.35,New Customers
+451,0.24,52,778.1,Potential Loyalist
+452,1.51,32,0.0,New Customers
+453,0.25,58,1524.96,Loyal Customer
+454,0.41,39,3208.31,New Customers
+455,0.72,41,1190.88,New Customers
+456,0.55,36,0.0,Champions
+457,3.01,56,1335.7,New Customers
+458,2.85,7,0.0,New Customers
+459,1.03,51,2065.74,Potential Loyalist
+460,1.13,56,3081.16,New Customers
+461,0.57,48,1360.23,New Customers
+462,3.91,16,2547.26,Potential Loyalist
+463,1.64,26,2202.76,New Customers
+464,0.93,13,0.0,Loyal Customer
+465,1.23,26,3473.4,Potential Loyalist
+466,1.65,41,1645.36,Loyal Customer
+467,2.14,9,575.98,Loyal Customer
+468,1.04,12,138.93,Loyal Customer
+469,3.47,14,2281.48,Champions
+470,1.09,33,1043.46,New Customers
+471,1.4,21,459.62,Potential Loyalist
+472,0.1,16,52.61,Hibernating
+473,4.55,55,4626.91,Potential Loyalist
+474,0.48,23,264.66,Potential Loyalist
+475,0.97,51,351.65,Potential Loyalist
+476,2.85,50,0.0,Potential Loyalist
+477,0.83,42,1518.44,Potential Loyalist
+478,3.19,40,1338.02,Hibernating
+479,2.16,28,2153.89,Champions
+480,0.57,28,742.31,Hibernating
+481,2.82,37,592.48,At Risk
+482,0.73,45,653.33,New Customers
+483,0.64,38,325.04,Loyal Customer
+484,0.37,48,823.31,At Risk
+485,0.77,33,941.93,New Customers
+486,4.87,50,23537.12,New Customers
+487,6.49,30,9153.55,Loyal Customer
+488,0.29,48,262.94,Loyal Customer
+489,1.81,58,5138.95,Potential Loyalist
+490,0.85,59,589.06,Champions
+491,0.68,59,2330.88,Loyal Customer
+492,2.24,20,4480.9,At Risk
+493,0.24,58,260.06,At Risk
+494,0.48,57,1692.53,Potential Loyalist
+495,0.42,19,210.9,At Risk
+496,1.27,34,289.05,Potential Loyalist
+497,0.31,38,496.98,At Risk
+498,0.93,25,1617.75,At Risk
+499,2.35,20,6154.38,Potential Loyalist
+500,0.43,52,1807.4,Loyal Customer
